@@ -74,6 +74,13 @@ activities = {
         "schedule": "Fridays, 4:00 PM - 5:30 PM",
         "max_participants": 12,
         "participants": ["charlotte@mergington.edu", "henry@mergington.edu"]
+    },
+    # new activity request from issue tracker
+    "GitHub Skills": {
+        "description": "Hands-on sessions to learn GitHub collaboration and Copilot skills",
+        "schedule": "Wednesdays, 3:00 PM - 4:00 PM",
+        "max_participants": 25,
+        "participants": []
     }
 }
 

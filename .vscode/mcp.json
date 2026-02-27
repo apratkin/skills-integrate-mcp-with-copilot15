@@ -1,4 +1,5 @@
 {
+  // configuration added during Skills exercise to register the GitHub MCP server
   "servers": {
     "github": {
       "type": "http",
